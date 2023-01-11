@@ -1,0 +1,54 @@
+body {
+    margin: 0 auto;
+    height: 100vh;
+    background-color: #f1f1f1;
+}
+
+.heading {
+    text-align: center;
+    font-size: 150%;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline gray;
+    text-decoration-thickness: 3px; 
+}
+fieldset{
+    position: absolute;
+    left: 0;
+    width: 500px;
+    margin-left: 20px;
+    
+}
+legend{
+    font-size: 150%;
+}
+button{
+    background-color: rgb(54, 13, 187);
+    font-size: 120%;
+    color: #f1f1f1;
+    height: 40px;
+    width: 80px;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    border-radius: 8px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.image{
+    position: fixed;
+    right: 0;
+    margin-right: 20px;
+
+}
+.link{
+    position: relative;
+    left: 0;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    top: 420px
+}
+
+    
+
